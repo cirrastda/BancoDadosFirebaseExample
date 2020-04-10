@@ -26,5 +26,14 @@
         android:layout_marginTop="8dp"
         android:hint="Blog"
         />
-
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/main_enviar"
+        app:layout_constraintTop_toBottomOf="@+id/main_blog"
+        app:layout_constraintLeft_toLeftOf="@id/main_blog"
+        app:layout_constraintRight_toRightOf="@id/main_blog"
+        android:layout_marginTop="8dp"
+        android:text="Enviar"
+        />
 </androidx.constraintlayout.widget.ConstraintLayout>
