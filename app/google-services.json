@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165244342098",
+    "firebase_url": "https://cirrastecbancodedados.firebaseio.com",
+    "project_id": "cirrastecbancodedados",
+    "storage_bucket": "cirrastecbancodedados.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165244342098:android:640c8b694e6ff30084f48b",
+        "android_client_info": {
+          "package_name": "com.cirrastec.bancodadosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165244342098-lfbr86d76o50kdidpsaoc6232197ldfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmmYAmXu0LmU_pgGGVqIGiNR4GCBlR8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165244342098-lfbr86d76o50kdidpsaoc6232197ldfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
